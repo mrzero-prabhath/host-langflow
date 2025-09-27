@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for host-langflow-ghqmuw on 2025-09-21T14:16:40Z
+# fly.toml app configuration file generated for host-langflow-2c67cg on 2025-09-27T04:54:35Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'host-langflow-ghqmuw'
+app = 'host-langflow-2c67cg'
 primary_region = 'cdg'
 
 [build]
